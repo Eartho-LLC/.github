@@ -1,1 +1,1 @@
-# .github
+Eartho LLC
